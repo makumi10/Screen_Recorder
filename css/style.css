@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #222831;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.container .video{
+    border: 10px solid #393E46;
+    border-radius: 3px;
+}
+
+.container .record-btn{
+    display: flex;
+    justify-content: center;
+    padding: 10px 3%;
+    background-color: #FD7014;
+    outline-style: none;
+    border: none;
+    border-radius: 2px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.container .record-btn:focus {
+    outline:0;
+}
+
