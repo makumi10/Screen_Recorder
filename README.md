@@ -3,9 +3,9 @@
 Its a simple web application that can be used to screen record on your browser.
 
 
-Languages Used
+# Languages Used
 
-HTML 
-CSS
-Javascript
+- HTML 
+- CSS
+- Javascript
 
