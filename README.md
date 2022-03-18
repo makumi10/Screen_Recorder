@@ -9,3 +9,6 @@ Its a simple web application that can be used to screen record on your browser.
 - CSS
 - Javascript
 
+# Tools Used 
+- Visual Studio Code
+- Sublime Text
